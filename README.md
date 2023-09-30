@@ -1,4 +1,4 @@
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center"> Dev Teste </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="calendario da copa" src="./assets/Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
